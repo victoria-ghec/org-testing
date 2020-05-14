@@ -32,7 +32,7 @@ assignees: vila89
     - [x] **Require review from Code Owners**
     - [ ] **Restrict who can dismiss pull request reviews**
         - [People and teams that can dismiss reviews]
-- [x] **Require status checks to pass before merging
+- [x] **Require status checks to pass before merging**
      - [x] **Require branches to be up to date before merging**
 - [ ] **Require signed commits**
 - [ ] **Include administrators**
