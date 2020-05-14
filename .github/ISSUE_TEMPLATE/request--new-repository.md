@@ -7,27 +7,34 @@ assignees: vila89
 
 ---
 
-## Request for a new repository - <new-repo>
+## Request for a new repository 
 
-- repository name: _repo-name_
-- repository description: _description_
+- **repository name:**  [repo-name]
+- **repository description:** [description]
 
 ### Team and Collaborators Access
-- team name 
-    - _team1 (new? if yes, please specify member usernames)
-        - _team1-member1_
-        - _team1-member2_
-    - _team2 (new? if yes, please specify member usernames)
-        - _team2-member1_
-        - _team2_member2_
-- list of collaborators who will need access to the repository
-    - _collaborator1_
-    - _collaborator2_
+- **team name** 
+    - **team1:** [team1] (new? if yes, please specify member usernames)
+        - [team1-member1]
+        - [team1-member2]
+    - **team2:** [team2] (new? if yes, please specify member usernames)
+        - [team2-member1]
+        - [team2_member2]
+
+### Branches
+- **Default Branch**: master
 
 ### Branch Protection
-- Require pull request reviews before merging: [Default: Y]
-    - number of required approving reviews
-- Dismiss stale pull request approvals when new commits are pushed: [Default: Y]
-- Require review from Code Owners: [Default Y]
-- Restrict who can dismiss pull request reviews: [Default: N]
-- Require status checks to pass before merging: [Default: Y]
+- **Branch name pattern**: master
+- [x] **Require pull request reviews before merging:**
+    - **number of required approving reviews:**  [number]
+    - [x] **Dismiss stale pull request approvals when new commits are pushed**
+    - [x] **Require review from Code Owners**
+    - [ ] **Restrict who can dismiss pull request reviews**
+        - [People and teams that can dismiss reviews]
+- [x] **Require status checks to pass before merging
+     - [x] **Require branches to be up to date before merging**
+- [ ] **Require signed commits**
+- [ ] **Include administrators**
+- [ ] **Restrict who can push to matching branches**
+    - [People, teams or apps with push access]
