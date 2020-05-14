@@ -15,9 +15,11 @@ assignees: vila89
 ### Team and Collaborators Access
 - **team name** 
     - **team1:** [team1] (new? if yes, please specify member usernames)
+    - **Permission level:** [read, triage, write, maintain]
         - [team1-member1]
         - [team1-member2]
     - **team2:** [team2] (new? if yes, please specify member usernames)
+      **Permission level:** [read, triage, write, maintain]
         - [team2-member1]
         - [team2_member2]
 
