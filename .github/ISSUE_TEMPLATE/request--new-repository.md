@@ -25,9 +25,7 @@ assignees: vila89
 - **Default Branch**: master
 
 ### Branch Protection
-
 - **Branch name pattern**: master
-
 - [x] **Require pull request reviews before merging:**
     - **number of required approving reviews:**  [number]
     - [x] **Dismiss stale pull request approvals when new commits are pushed**
